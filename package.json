@@ -1,0 +1,16 @@
+{
+  "name": "mean-menu",
+  "version": "0.0.1",
+  "description": "MEAN menu",
+  "author": {
+    "name": "Linnovate",
+    "email": "mean@linnovate.net"
+  },
+  "mean": true,
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.4.x"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
