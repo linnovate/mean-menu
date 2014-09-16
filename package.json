@@ -1,7 +1,7 @@
 {
-  "name": "mean-menu",
+  "name": "menu",
   "version": "0.0.1",
-  "description": "MEAN menu",
+  "description": "MEAN menu package",
   "author": {
     "name": "Linnovate",
     "email": "mean@linnovate.net"
